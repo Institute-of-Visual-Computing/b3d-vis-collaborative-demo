@@ -1,4 +1,4 @@
-B3D Visualization - Collaborative Demo
+# B3D Visualization - Collaborative Demo
 Collaborative VR demo viewer for b3d-vis renderer. Can also be used in single user mode.
 
 This project targets VR-HMDs and is developed with a Meta Quest 3. Other devices should work too.
